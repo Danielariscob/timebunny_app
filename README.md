@@ -1,16 +1,36 @@
-# time_bunny
+# 🐇 Time Bunny
 
-A new Flutter project.
+**Time Bunny** is a playful and elegant Flutter app that helps you schedule, visualize, and manage meetings across time zones. Built to be smooth, intuitive, and emotionally satisfying—like writing in a planner you actually enjoy.
 
-## Getting Started
+## 🎯 Features
 
-This project is a starting point for a Flutter application.
+- 📅 Interactive calendar view with colorful themes
+- 🌍 Time zone support for global scheduling
+- 👯 Participant validation and display
+- 🎨 UI inspired by soft pastel palettes
+- ✅ Visual feedback and confirmation messages
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter + Dart 🐦
+- Local SQLite database with `sqflite`
+- Calendar UI with `table_calendar`
+- Persistent storage
+- Elegant custom widgets (`MeetingCard`, etc.)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧪 Setup Instructions
+
+```bash
+git clone https://github.com/Danielariscob/timebunny_app.git
+cd timebunny_app
+flutter pub get
+flutter run
+```
+
+## ✨ Demo
+
+[![Watch the demo](https://img.youtube.com/vi/czVehDtZsJE/0.jpg)](https://www.youtube.com/watch?v=czVehDtZsJE)
+
+## 🚀 Credits
+
+Project developed by Daniela [@Danielariscob] as a cultural and educational mobile experience. UI design inspired by @museopedrodeosma. Thanks for visiting! 🌿 Feel free to reach out if you'd like to collaborate or implement a similar experience in another museum.

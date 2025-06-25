@@ -33,4 +33,4 @@ flutter run
 
 ## 🚀 Credits
 
-Project developed by Daniela [@Danielariscob] as a cultural and educational mobile experience. UI design inspired by @museopedrodeosma. Thanks for visiting! 🌿 Feel free to reach out if you'd like to collaborate or implement a similar experience in another museum.
+Project developed by Daniela [@Danielariscob]. Thanks for visiting! 🌿 Feel free to reach out if you'd like to collaborate or implement a similar experience.
